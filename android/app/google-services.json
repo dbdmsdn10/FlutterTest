@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "36854844392",
+    "project_id": "pushtest-ac562",
+    "storage_bucket": "pushtest-ac562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36854844392:android:78f3e7dee6aab3db77b25d",
+        "android_client_info": {
+          "package_name": "com.example.forcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36854844392-4i7u5tsd5luqj01jt5p038b05c4b96vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJg787YXFv6OZI8v6YvKGXG6lvvNyY8Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36854844392-4i7u5tsd5luqj01jt5p038b05c4b96vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36854844392-2fd423343ip5bveh67tl5e824ukh4dsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realpushnotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36854844392:android:5509899f5e8e129177b25d",
+        "android_client_info": {
+          "package_name": "com.example.realpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36854844392-4i7u5tsd5luqj01jt5p038b05c4b96vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJg787YXFv6OZI8v6YvKGXG6lvvNyY8Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36854844392-4i7u5tsd5luqj01jt5p038b05c4b96vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36854844392-2fd423343ip5bveh67tl5e824ukh4dsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realpushnotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
